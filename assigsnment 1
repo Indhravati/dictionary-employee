@@ -1,0 +1,23 @@
+enter no of employees
+2
+Enter name of the employee
+indhu
+enter desig of the employee
+teacher
+enter salary of the employee
+10000
+enter phno
+234546
+Enter name of the employee
+ravi
+enter desig of the employee
+teacher
+enter salary of the employee
+20000
+enter phno
+265378
+{1: ['indhu', 'teacher', 10000, 234546], 2: ['ravi', 'teacher', 20000, 265378]}
+
+
+** Process exited - Return Code: 0 **
+Press Enter to exit terminal
